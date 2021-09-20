@@ -1,0 +1,16 @@
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.exe
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.deps.json
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.runtimeconfig.json
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.runtimeconfig.dev.json
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.dll
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\ref\Ejercicio1_clase02.dll
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\bin\Debug\net5.0\Ejercicio1_clase02.pdb
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.AssemblyInfo.cs
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.dll
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\ref\Ejercicio1_clase02.dll
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.pdb
+C:\Users\julio\source\repos\Ejercicio1_clase02\Ejercicio1_clase02\obj\Debug\net5.0\Ejercicio1_clase02.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.exe
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.deps.json
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.runtimeconfig.json
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.runtimeconfig.dev.json
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.dll
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\ref\AppConsolaPrueba.dll
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\bin\Debug\net5.0\AppConsolaPrueba.pdb
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.AssemblyInfo.cs
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.dll
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\ref\AppConsolaPrueba.dll
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.pdb
+C:\Users\julio\source\repos\AppConsolaPrueba\AppConsolaPrueba\obj\Debug\net5.0\AppConsolaPrueba.genruntimeconfig.cache
