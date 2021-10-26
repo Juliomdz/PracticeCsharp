@@ -1,0 +1,12 @@
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.deps.json
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.dll
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\bin\Debug\net5.0\ref\MensajesEntidades.dll
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\bin\Debug\net5.0\MensajesEntidades.pdb
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.AssemblyInfo.cs
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.dll
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\ref\MensajesEntidades.dll
+C:\Users\julio\source\repos\practicaSQL\MensajesEntidades\obj\Debug\net5.0\MensajesEntidades.pdb
